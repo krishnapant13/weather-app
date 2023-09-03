@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.8b51f9a3.css",
+    "main.js": "/weather-app/static/js/main.c1104212.js",
+    "static/media/cloud.gif": "/weather-app/static/media/cloud.b37463f4b01a62574f11.gif",
+    "static/media/thunderstorm.gif": "/weather-app/static/media/thunderstorm.0be411a5afa260832db8.gif",
+    "static/media/rain.gif": "/weather-app/static/media/rain.e27b9d4992e9c7cce2bf.gif",
+    "static/media/haze.jpg": "/weather-app/static/media/haze.5f4a636ecfe74250159b.jpg",
+    "static/media/cloudImg.gif": "/weather-app/static/media/cloudImg.4b73afe7a73f0c4a68b2.gif",
+    "static/media/sun.gif": "/weather-app/static/media/sun.ea136e8084e1d1a1a8ff.gif",
+    "static/media/lessCloud.gif": "/weather-app/static/media/lessCloud.6c3c5c573862615c033b.gif",
+    "static/media/rain1.gif": "/weather-app/static/media/rain1.8515b1c3f5539cc10fb7.gif",
+    "static/media/drizzle.gif": "/weather-app/static/media/drizzle.8c9e9c8c28776c1caf8b.gif",
+    "static/media/Clouds.gif": "/weather-app/static/media/Clouds.61914d9170d684cbd2ca.gif",
+    "static/media/thunder.gif": "/weather-app/static/media/thunder.cd42c17540bc758bb0f0.gif",
+    "static/media/snowy.gif": "/weather-app/static/media/snowy.700dddb1386aa72ded42.gif",
+    "static/media/snow.gif": "/weather-app/static/media/snow.ac5736f14eff6680b242.gif",
+    "static/media/scattered.jpeg": "/weather-app/static/media/scattered.e90d740f18ea23fb154b.jpeg",
+    "static/media/windy.gif": "/weather-app/static/media/windy.1159970bb70fbec12297.gif",
+    "static/media/allweather.jpeg": "/weather-app/static/media/allweather.b8a0abee1fa502549566.jpeg",
+    "static/media/sunny.jpeg": "/weather-app/static/media/sunny.6f7afa37338f10f6be2b.jpeg",
+    "index.html": "/weather-app/index.html",
+    "main.8b51f9a3.css.map": "/weather-app/static/css/main.8b51f9a3.css.map",
+    "main.c1104212.js.map": "/weather-app/static/js/main.c1104212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b51f9a3.css",
+    "static/js/main.c1104212.js"
+  ]
+}
