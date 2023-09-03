@@ -191,7 +191,7 @@ const WeatherDisplay = () => {
           </p>
           <div className="bg-[#ffffff7a] h-[0.1em] w-full m-1" />
         </div>
-        <div className="absolute bottom-[1em] w-full text-center">
+        <div className="absolute bottom-[0em] w-full text-center">
           <form onSubmit={handleSearchClick} className="mt-4 ">
             <div className="w-full flex justify-evenly">
               <input
