@@ -176,7 +176,7 @@ const WeatherDisplay = () => {
       <div
         className={`flex flex-col justify-center items-center  bg-[#282a33] relative md:w-[30%] w-full`}
       >
-        <div className="flex flex-col justify-center items-center absolute top-[1em] translate-1/2">
+        <div className="flex flex-col justify-center items-center absolute top-[0em] translate-1/2">
           {error ? (
             <TiWeatherWindyCloudy size={100} color="white" />
           ) : (
